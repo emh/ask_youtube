@@ -16,7 +16,7 @@ text = ""
 
 segments.each do |segment|
     snippet = segment["transcriptSegmentRenderer"]["snippet"]["runs"][0]["text"]
-    text += snippet
+    text += ' ' + snippet
 end
 
 uri = URI('http://bark.phon.ioc.ee/punctuator')
@@ -30,10 +30,14 @@ CSV.open("../data/transcripts/#{id}.sentences.csv", "wb") do |csv|
     csv << ["ID","index","text"]
 
     sentences.each_with_index do |sentence, i|
-        csv << [
-            id,
-            i,
-            sentence.strip
-        ]
+        sentence.strip!
+
+        if sentence.length > 0
+            csv << [
+                id,
+                i,
+                sentence
+            ]
+        end
     end
 end
