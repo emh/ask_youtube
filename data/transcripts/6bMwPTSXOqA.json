@@ -1,0 +1,2091 @@
+{
+    "responseContext": {
+        "serviceTrackingParams": [
+            {
+                "service": "CSI",
+                "params": [
+                    {
+                        "key": "c",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "cver",
+                        "value": "2.20221207.05.00"
+                    },
+                    {
+                        "key": "yt_li",
+                        "value": "1"
+                    },
+                    {
+                        "key": "GetVideoTranscript_rid",
+                        "value": "0x33df3e8180393902"
+                    }
+                ]
+            },
+            {
+                "service": "GFEEDBACK",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "1"
+                    },
+                    {
+                        "key": "e",
+                        "value": "1714243,23804281,23882685,23918597,23934970,23946420,23966208,23981193,23983296,23986031,23998056,24001373,24002022,24002025,24004644,24007246,24034168,24036948,24059444,24059508,24077241,24080738,24120820,24135310,24140247,24161116,24162919,24164186,24166867,24169501,24181174,24186125,24187043,24187377,24191629,24211178,24219382,24219713,24241027,24241378,24248091,24248685,24248956,24255165,24255543,24255545,24260378,24262346,24263270,24263796,24265426,24267564,24268142,24279196,24283015,24283093,24287603,24288043,24288442,24288663,24290971,24291857,24292955,24295896,24299548,24390675,24391539,24391690,24392059,24392364,24392452,24392499,24396645,24397908,24397915,24401290,24404641,24406313,24407200,24407916,24410609,24412898,24413358,24414918,24415864,24415866,24419356,24420728,24421162,24421999,24423886,24427788,24428900,24430936,24431333,24431729,24431985,39322504,39322574"
+                    }
+                ]
+            },
+            {
+                "service": "GUIDED_HELP",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "service": "ECATCHER",
+                "params": [
+                    {
+                        "key": "client.version",
+                        "value": "2.20221207"
+                    },
+                    {
+                        "key": "client.name",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "client.fexp",
+                        "value": "24187043,24263796,24392364,24410609,24414918,24390675,24415866,24262346,24248956,24002025,24427788,24267564,24299548,24407916,24187377,24431985,24255165,24004644,24295896,24265426,24162919,24421162,24219382,24263270,24283093,24397908,24397915,23918597,23983296,23804281,23998056,24413358,24007246,24255543,24412898,23981193,24164186,24283015,24036948,24392059,24248685,24288043,24391539,24219713,24391690,24392452,24423886,24291857,24135310,24080738,24419356,24140247,24268142,24404641,24396645,24420728,24392499,24059444,24431333,24186125,24421999,24077241,24292955,1714243,24428900,24161116,24290971,24001373,24260378,24406313,24181174,24248091,23946420,24120820,23986031,23966208,24401290,24431729,24407200,24002022,24034168,24288442,24211178,23882685,24059508,24169501,24241027,39322574,23934970,24287603,24166867,24415864,24241378,24430936,24255545,24191629,24279196,39322504,24288663"
+                    }
+                ]
+            }
+        ],
+        "mainAppWebResponseContext": {
+            "datasyncId": "115195497304808168360||",
+            "loggedOut": false
+        },
+        "webResponseContextExtensionData": {
+            "hasDecorated": true
+        }
+    },
+    "actions": [
+        {
+            "clickTrackingParams": "CAAQw7wCIhMIvNfi1N7r-wIVT7LECh0hyA8n",
+            "updateEngagementPanelAction": {
+                "targetId": "engagement-panel-searchable-transcript",
+                "content": {
+                    "transcriptRenderer": {
+                        "trackingParams": "CAEQ8bsCIhMIvNfi1N7r-wIVT7LECh0hyA8n",
+                        "content": {
+                            "transcriptSearchPanelRenderer": {
+                                "body": {
+                                    "transcriptSegmentListRenderer": {
+                                        "initialSegments": [
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "179",
+                                                    "endMs": "3720",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "hello from Snowy Colorado uh one of the"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:00"
+                                                    },
+                                                    "trackingParams": "CFoQ0_YHGAAiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "0 seconds hello from Snowy Colorado uh one of the"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.179.3720"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "3720",
+                                                    "endMs": "5400",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "questions I've been getting a lot today"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:03"
+                                                    },
+                                                    "trackingParams": "CFkQ0_YHGAEiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "3 seconds questions I've been getting a lot today"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.3720.5400"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "5400",
+                                                    "endMs": "7080",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "is when we will know who's going to win"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:05"
+                                                    },
+                                                    "trackingParams": "CFgQ0_YHGAIiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "5 seconds is when we will know who's going to win"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.5400.7080"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "7080",
+                                                    "endMs": "8519",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "the Ukraine war and when it's going to"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:07"
+                                                    },
+                                                    "trackingParams": "CFcQ0_YHGAMiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "7 seconds the Ukraine war and when it's going to"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.7080.8519"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "8519",
+                                                    "endMs": "11040",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "be over I can't answer that but I can"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:08"
+                                                    },
+                                                    "trackingParams": "CFYQ0_YHGAQiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "8 seconds be over I can't answer that but I can"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.8519.11040"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "11040",
+                                                    "endMs": "13259",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "give you a time as to when we will know"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:11"
+                                                    },
+                                                    "trackingParams": "CFUQ0_YHGAUiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "11 seconds give you a time as to when we will know"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.11040.13259"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "13259",
+                                                    "endMs": "15240",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "and that's going to be next to May so"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:13"
+                                                    },
+                                                    "trackingParams": "CFQQ0_YHGAYiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "13 seconds and that's going to be next to May so"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.13259.15240"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "15240",
+                                                    "endMs": "17160",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "there's three things in play number one"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:15"
+                                                    },
+                                                    "trackingParams": "CFMQ0_YHGAciEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "15 seconds there's three things in play number one"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.15240.17160"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "17160",
+                                                    "endMs": "19140",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "the ukrainians have captured a huge"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:17"
+                                                    },
+                                                    "trackingParams": "CFIQ0_YHGAgiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "17 seconds the ukrainians have captured a huge"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.17160.19140"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "19140",
+                                                    "endMs": "20760",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "amount of Russian equipment first in the"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:19"
+                                                    },
+                                                    "trackingParams": "CFEQ0_YHGAkiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "19 seconds amount of Russian equipment first in the"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.19140.20760"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "20760",
+                                                    "endMs": "22680",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "car cover offensive then in the Battle"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:20"
+                                                    },
+                                                    "trackingParams": "CFAQ0_YHGAoiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "20 seconds car cover offensive then in the Battle"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.20760.22680"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "22680",
+                                                    "endMs": "24720",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "of visium and then finally most recently"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:22"
+                                                    },
+                                                    "trackingParams": "CE8Q0_YHGAsiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "22 seconds of visium and then finally most recently"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.22680.24720"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "24720",
+                                                    "endMs": "26539",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "in the Battle of Kirsten"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:24"
+                                                    },
+                                                    "trackingParams": "CE4Q0_YHGAwiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "24 seconds in the Battle of Kirsten"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.24720.26539"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "26539",
+                                                    "endMs": "29580",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "collectively they have captured roughly"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:26"
+                                                    },
+                                                    "trackingParams": "CE0Q0_YHGA0iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "26 seconds collectively they have captured roughly"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.26539.29580"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "29580",
+                                                    "endMs": "32700",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "double to Triple the total amount of"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:29"
+                                                    },
+                                                    "trackingParams": "CEwQ0_YHGA4iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "29 seconds double to Triple the total amount of"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.29580.32700"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "32700",
+                                                    "endMs": "34680",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "Weaponry in terms of artillery and tanks"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:32"
+                                                    },
+                                                    "trackingParams": "CEsQ0_YHGA8iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "32 seconds Weaponry in terms of artillery and tanks"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.32700.34680"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "34680",
+                                                    "endMs": "36660",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "and ammo that they had at the beginning"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:34"
+                                                    },
+                                                    "trackingParams": "CEoQ0_YHGBAiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "34 seconds and ammo that they had at the beginning"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.34680.36660"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "36660",
+                                                    "endMs": "39420",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "of the war so that is at least twice"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:36"
+                                                    },
+                                                    "trackingParams": "CEkQ0_YHGBEiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "36 seconds of the war so that is at least twice"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.36660.39420"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "39420",
+                                                    "endMs": "42420",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "what NATO has transferred so after a"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:39"
+                                                    },
+                                                    "trackingParams": "CEgQ0_YHGBIiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "39 seconds what NATO has transferred so after a"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.39420.42420"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "42420",
+                                                    "endMs": "44579",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "winter of doing a whole lot of deferred"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:42"
+                                                    },
+                                                    "trackingParams": "CEcQ0_YHGBMiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "42 seconds winter of doing a whole lot of deferred"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.42420.44579"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "44579",
+                                                    "endMs": "46879",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "maintenance we're looking at the Ukraine"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:44"
+                                                    },
+                                                    "trackingParams": "CEYQ0_YHGBQiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "44 seconds maintenance we're looking at the Ukraine"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.44579.46879"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "46879",
+                                                    "endMs": "50039",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "military being roughly four to six times"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:46"
+                                                    },
+                                                    "trackingParams": "CEUQ0_YHGBUiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "46 seconds military being roughly four to six times"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.46879.50039"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "50039",
+                                                    "endMs": "52920",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "as powerful by next may as it is now"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:50"
+                                                    },
+                                                    "trackingParams": "CEQQ0_YHGBYiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "50 seconds as powerful by next may as it is now"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.50039.52920"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "52920",
+                                                    "endMs": "55440",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "totally different sort of combatant"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:52"
+                                                    },
+                                                    "trackingParams": "CEMQ0_YHGBciEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "52 seconds totally different sort of combatant"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.52920.55440"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "55440",
+                                                    "endMs": "58500",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "second the Russians have mobilized and"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:55"
+                                                    },
+                                                    "trackingParams": "CEIQ0_YHGBgiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "55 seconds second the Russians have mobilized and"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.55440.58500"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "58500",
+                                                    "endMs": "60300",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "by may they will have thrown at least"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "0:58"
+                                                    },
+                                                    "trackingParams": "CEEQ0_YHGBkiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "58 seconds by may they will have thrown at least"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.58500.60300"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "60300",
+                                                    "endMs": "62039",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "500"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:00"
+                                                    },
+                                                    "trackingParams": "CEAQ0_YHGBoiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute 500"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.60300.62039"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "62039",
+                                                    "endMs": "64500",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "000 troops into the front lines and yes"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:02"
+                                                    },
+                                                    "trackingParams": "CD8Q0_YHGBsiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 2 seconds 000 troops into the front lines and yes"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.62039.64500"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "64500",
+                                                    "endMs": "66299",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "they will be badly trained and yes they"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:04"
+                                                    },
+                                                    "trackingParams": "CD4Q0_YHGBwiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 4 seconds they will be badly trained and yes they"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.64500.66299"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "66299",
+                                                    "endMs": "68340",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "will be badly equipped and yes they will"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:06"
+                                                    },
+                                                    "trackingParams": "CD0Q0_YHGB0iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 6 seconds will be badly equipped and yes they will"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.66299.68340"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "68340",
+                                                    "endMs": "71159",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "be badly LED and yes they're just not"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:08"
+                                                    },
+                                                    "trackingParams": "CDwQ0_YHGB4iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 8 seconds be badly LED and yes they're just not"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.68340.71159"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "71159",
+                                                    "endMs": "74100",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "gonna do well but there's 500 000 of"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:11"
+                                                    },
+                                                    "trackingParams": "CDsQ0_YHGB8iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 11 seconds gonna do well but there's 500 000 of"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.71159.74100"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "74100",
+                                                    "endMs": "75659",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "them and you know what I call troops"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:14"
+                                                    },
+                                                    "trackingParams": "CDoQ0_YHGCAiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 14 seconds them and you know what I call troops"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.74100.75659"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "75659",
+                                                    "endMs": "79140",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "like this of this quality Russian there"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:15"
+                                                    },
+                                                    "trackingParams": "CDkQ0_YHGCEiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 15 seconds like this of this quality Russian there"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.75659.79140"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "79140",
+                                                    "endMs": "81420",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "is not a single war in the entirety of"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:19"
+                                                    },
+                                                    "trackingParams": "CDgQ0_YHGCIiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 19 seconds is not a single war in the entirety of"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.79140.81420"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "81420",
+                                                    "endMs": "83340",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "Russian history where the first year of"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:21"
+                                                    },
+                                                    "trackingParams": "CDcQ0_YHGCMiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 21 seconds Russian history where the first year of"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.81420.83340"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "83340",
+                                                    "endMs": "84600",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "it looks any different from what we're"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:23"
+                                                    },
+                                                    "trackingParams": "CDYQ0_YHGCQiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 23 seconds it looks any different from what we're"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.83340.84600"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "84600",
+                                                    "endMs": "86520",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "seeing right now the first year is"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:24"
+                                                    },
+                                                    "trackingParams": "CDUQ0_YHGCUiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 24 seconds seeing right now the first year is"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.84600.86520"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "86520",
+                                                    "endMs": "89640",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "always an absolute show and then"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:26"
+                                                    },
+                                                    "trackingParams": "CDQQ0_YHGCYiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 26 seconds always an absolute show and then"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.86520.89640"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "89640",
+                                                    "endMs": "91560",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "the Russians mobilize and throw bodies"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:29"
+                                                    },
+                                                    "trackingParams": "CDMQ0_YHGCciEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 29 seconds the Russians mobilize and throw bodies"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.89640.91560"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "91560",
+                                                    "endMs": "93119",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "at the problem until it just goes away"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:31"
+                                                    },
+                                                    "trackingParams": "CDIQ0_YHGCgiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 31 seconds at the problem until it just goes away"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.91560.93119"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "93119",
+                                                    "endMs": "95820",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "and half the time that works so by the"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:33"
+                                                    },
+                                                    "trackingParams": "CDEQ0_YHGCkiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 33 seconds and half the time that works so by the"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.93119.95820"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "95820",
+                                                    "endMs": "97259",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "time we get to May both sides will be"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:35"
+                                                    },
+                                                    "trackingParams": "CDAQ0_YHGCoiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 35 seconds time we get to May both sides will be"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.95820.97259"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "97259",
+                                                    "endMs": "99479",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "ready for a real Duke out the other"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:37"
+                                                    },
+                                                    "trackingParams": "CC8Q0_YHGCsiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 37 seconds ready for a real Duke out the other"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.97259.99479"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "99479",
+                                                    "endMs": "101159",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "reason we have to wait for May is the"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:39"
+                                                    },
+                                                    "trackingParams": "CC4Q0_YHGCwiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 39 seconds reason we have to wait for May is the"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.99479.101159"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "101159",
+                                                    "endMs": "103799",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "weather now Ukraine is primarily step"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:41"
+                                                    },
+                                                    "trackingParams": "CC0Q0_YHGC0iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 41 seconds weather now Ukraine is primarily step"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.101159.103799"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "103799",
+                                                    "endMs": "105720",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "particularly in the South and the East"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:43"
+                                                    },
+                                                    "trackingParams": "CCwQ0_YHGC4iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 43 seconds particularly in the South and the East"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.103799.105720"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "105720",
+                                                    "endMs": "107400",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "which means that they don't get a lot of"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:45"
+                                                    },
+                                                    "trackingParams": "CCsQ0_YHGC8iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 45 seconds which means that they don't get a lot of"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.105720.107400"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "107400",
+                                                    "endMs": "108960",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "moisture and what they do get happens in"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:47"
+                                                    },
+                                                    "trackingParams": "CCoQ0_YHGDAiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 47 seconds moisture and what they do get happens in"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.107400.108960"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "108960",
+                                                    "endMs": "111240",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "the fall winter and spring and when"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:48"
+                                                    },
+                                                    "trackingParams": "CCkQ0_YHGDEiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 48 seconds the fall winter and spring and when"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.108960.111240"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "111240",
+                                                    "endMs": "112979",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "you're talking about fall and Inter and"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:51"
+                                                    },
+                                                    "trackingParams": "CCgQ0_YHGDIiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 51 seconds you're talking about fall and Inter and"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.111240.112979"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "112979",
+                                                    "endMs": "115079",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "the beginning of winter that means a"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:52"
+                                                    },
+                                                    "trackingParams": "CCcQ0_YHGDMiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 52 seconds the beginning of winter that means a"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.112979.115079"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "115079",
+                                                    "endMs": "116880",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "whole lot of of mud that really slows"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:55"
+                                                    },
+                                                    "trackingParams": "CCYQ0_YHGDQiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 55 seconds whole lot of of mud that really slows"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.115079.116880"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "116880",
+                                                    "endMs": "119040",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "down operations for all sides it's not"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:56"
+                                                    },
+                                                    "trackingParams": "CCUQ0_YHGDUiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 56 seconds down operations for all sides it's not"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.116880.119040"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "119040",
+                                                    "endMs": "121560",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "that the war is going to stop but in"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "1:59"
+                                                    },
+                                                    "trackingParams": "CCQQ0_YHGDYiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "1 minute, 59 seconds that the war is going to stop but in"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.119040.121560"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "121560",
+                                                    "endMs": "123420",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "October and November it's muddy and it's"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:01"
+                                                    },
+                                                    "trackingParams": "CCMQ0_YHGDciEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 1 second October and November it's muddy and it's"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.121560.123420"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "123420",
+                                                    "endMs": "125040",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "just hard to move around with vehicles"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:03"
+                                                    },
+                                                    "trackingParams": "CCIQ0_YHGDgiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 3 seconds just hard to move around with vehicles"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.123420.125040"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "125040",
+                                                    "endMs": "128039",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "when you get into December and January"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:05"
+                                                    },
+                                                    "trackingParams": "CCEQ0_YHGDkiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 5 seconds when you get into December and January"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.125040.128039"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "128039",
+                                                    "endMs": "130500",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "and February the ground is frozen hard"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:08"
+                                                    },
+                                                    "trackingParams": "CCAQ0_YHGDoiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 8 seconds and February the ground is frozen hard"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.128039.130500"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "130500",
+                                                    "endMs": "132780",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "and you can do normal operations and in"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:10"
+                                                    },
+                                                    "trackingParams": "CB8Q0_YHGDsiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 10 seconds and you can do normal operations and in"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.130500.132780"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "132780",
+                                                    "endMs": "134520",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "that sort of time frame I expect the"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:12"
+                                                    },
+                                                    "trackingParams": "CB4Q0_YHGDwiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 12 seconds that sort of time frame I expect the"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.132780.134520"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "134520",
+                                                    "endMs": "136500",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "ukrainians to do very very well because"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:14"
+                                                    },
+                                                    "trackingParams": "CB0Q0_YHGD0iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 14 seconds ukrainians to do very very well because"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.134520.136500"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "136500",
+                                                    "endMs": "138180",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "they actually have more tanks in theater"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:16"
+                                                    },
+                                                    "trackingParams": "CBwQ0_YHGD4iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 16 seconds they actually have more tanks in theater"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.136500.138180"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "138180",
+                                                    "endMs": "139980",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "than the Russians do and they're"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:18"
+                                                    },
+                                                    "trackingParams": "CBsQ0_YHGD8iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 18 seconds than the Russians do and they're"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.138180.139980"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "139980",
+                                                    "endMs": "141480",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "certainly a lot more flexible with their"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:19"
+                                                    },
+                                                    "trackingParams": "CBoQ0_YHGEAiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 19 seconds certainly a lot more flexible with their"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.139980.141480"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "141480",
+                                                    "endMs": "144360",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "supply lines but then we have another"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:21"
+                                                    },
+                                                    "trackingParams": "CBkQ0_YHGEEiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 21 seconds supply lines but then we have another"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.141480.144360"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "144360",
+                                                    "endMs": "146340",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "mud season when we get into March and"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:24"
+                                                    },
+                                                    "trackingParams": "CBgQ0_YHGEIiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 24 seconds mud season when we get into March and"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.144360.146340"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "146340",
+                                                    "endMs": "148080",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "April as things start to thawing you get"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:26"
+                                                    },
+                                                    "trackingParams": "CBcQ0_YHGEMiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 26 seconds April as things start to thawing you get"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.146340.148080"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "148080",
+                                                    "endMs": "149760",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "the spring rains that's going to slow"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:28"
+                                                    },
+                                                    "trackingParams": "CBYQ0_YHGEQiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 28 seconds the spring rains that's going to slow"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.148080.149760"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "149760",
+                                                    "endMs": "153660",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "things down again but may by May they're"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:29"
+                                                    },
+                                                    "trackingParams": "CBUQ0_YHGEUiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 29 seconds things down again but may by May they're"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.149760.153660"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "153660",
+                                                    "endMs": "155340",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "both going to be ready to Duke it out"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:33"
+                                                    },
+                                                    "trackingParams": "CBQQ0_YHGEYiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 33 seconds both going to be ready to Duke it out"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.153660.155340"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "155340",
+                                                    "endMs": "157200",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "for real and it'll be a very different"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:35"
+                                                    },
+                                                    "trackingParams": "CBMQ0_YHGEciEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 35 seconds for real and it'll be a very different"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.155340.157200"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "157200",
+                                                    "endMs": "159239",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "sort of conflict and if you've seen my"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:37"
+                                                    },
+                                                    "trackingParams": "CBIQ0_YHGEgiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 37 seconds sort of conflict and if you've seen my"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.157200.159239"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "159239",
+                                                    "endMs": "160920",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "previous videos you know that Crimea is"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:39"
+                                                    },
+                                                    "trackingParams": "CBEQ0_YHGEkiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 39 seconds previous videos you know that Crimea is"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.159239.160920"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "160920",
+                                                    "endMs": "163379",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "fully in play so most of this fighting"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:40"
+                                                    },
+                                                    "trackingParams": "CBAQ0_YHGEoiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 40 seconds fully in play so most of this fighting"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.160920.163379"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "163379",
+                                                    "endMs": "165959",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "is probably going to happen in the Don"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:43"
+                                                    },
+                                                    "trackingParams": "CA8Q0_YHGEsiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 43 seconds is probably going to happen in the Don"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.163379.165959"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "165959",
+                                                    "endMs": "167580",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "boss in the luhansk and the Knox"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:45"
+                                                    },
+                                                    "trackingParams": "CA4Q0_YHGEwiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 45 seconds boss in the luhansk and the Knox"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.165959.167580"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "167580",
+                                                    "endMs": "169019",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "provinces"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:47"
+                                                    },
+                                                    "trackingParams": "CA0Q0_YHGE0iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 47 seconds provinces"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.167580.169019"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "169019",
+                                                    "endMs": "171060",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "that's when we'll know because it's not"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:49"
+                                                    },
+                                                    "trackingParams": "CAwQ0_YHGE4iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 49 seconds that's when we'll know because it's not"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.169019.171060"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "171060",
+                                                    "endMs": "173220",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "going to take long for us to find out if"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:51"
+                                                    },
+                                                    "trackingParams": "CAsQ0_YHGE8iEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 51 seconds going to take long for us to find out if"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.171060.173220"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "173220",
+                                                    "endMs": "175140",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "the Russians numbers versus the"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:53"
+                                                    },
+                                                    "trackingParams": "CAoQ0_YHGFAiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 53 seconds the Russians numbers versus the"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.173220.175140"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "175140",
+                                                    "endMs": "177180",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "ukrainian's quality is enough to move"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:55"
+                                                    },
+                                                    "trackingParams": "CAkQ0_YHGFEiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 55 seconds ukrainian's quality is enough to move"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.175140.177180"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "177180",
+                                                    "endMs": "179280",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "the needle one way or the other so next"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:57"
+                                                    },
+                                                    "trackingParams": "CAgQ0_YHGFIiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 57 seconds the needle one way or the other so next"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.177180.179280"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "179280",
+                                                    "endMs": "182099",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "May that's when we know that's it for me"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "2:59"
+                                                    },
+                                                    "trackingParams": "CAcQ0_YHGFMiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "2 minutes, 59 seconds May that's when we know that's it for me"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.179280.182099"
+                                                }
+                                            },
+                                            {
+                                                "transcriptSegmentRenderer": {
+                                                    "startMs": "182099",
+                                                    "endMs": "184879",
+                                                    "snippet": {
+                                                        "runs": [
+                                                            {
+                                                                "text": "until next time"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "startTimeText": {
+                                                        "simpleText": "3:02"
+                                                    },
+                                                    "trackingParams": "CAYQ0_YHGFQiEwi81-LU3uv7AhVPssQKHSHIDyc=",
+                                                    "accessibility": {
+                                                        "accessibilityData": {
+                                                            "label": "3 minutes, 2 seconds until next time"
+                                                        }
+                                                    },
+                                                    "targetId": "6bMwPTSXOqA.CgNhc3ISAmVuGgA%3D.182099.184879"
+                                                }
+                                            }
+                                        ],
+                                        "noResultLabel": {
+                                            "runs": [
+                                                {
+                                                    "text": "No results found"
+                                                }
+                                            ]
+                                        },
+                                        "retryLabel": {
+                                            "runs": [
+                                                {
+                                                    "text": "TAP TO RETRY"
+                                                }
+                                            ]
+                                        },
+                                        "touchCaptionsEnabled": false
+                                    }
+                                },
+                                "footer": {
+                                    "transcriptFooterRenderer": {
+                                        "languageMenu": {
+                                            "sortFilterSubMenuRenderer": {
+                                                "subMenuItems": [
+                                                    {
+                                                        "title": "English (auto-generated)",
+                                                        "selected": true,
+                                                        "continuation": {
+                                                            "reloadContinuationData": {
+                                                                "continuation": "Cgs2Yk13UFRTWE9xQRISQ2dOaGMzSVNBbVZ1R2dBJTNEGAEqM2VuZ2FnZW1lbnQtcGFuZWwtc2VhcmNoYWJsZS10cmFuc2NyaXB0LXNlYXJjaC1wYW5lbDABOAFAAA%3D%3D",
+                                                                "clickTrackingParams": "CAUQxqYCIhMIvNfi1N7r-wIVT7LECh0hyA8n"
+                                                            }
+                                                        },
+                                                        "trackingParams": "CAQQ48AHGAAiEwi81-LU3uv7AhVPssQKHSHIDyc="
+                                                    }
+                                                ],
+                                                "trackingParams": "CAMQgdoEIhMIvNfi1N7r-wIVT7LECh0hyA8n"
+                                            }
+                                        }
+                                    }
+                                },
+                                "trackingParams": "CAIQ8bsCIhMIvNfi1N7r-wIVT7LECh0hyA8n",
+                                "targetId": "engagement-panel-searchable-transcript-search-panel"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "trackingParams": "CAAQw7wCIhMIvNfi1N7r-wIVT7LECh0hyA8n"
+}
